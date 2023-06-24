@@ -7,10 +7,11 @@ var main =
     <button on:click={add}>Counter: {number}</button>
 </div>
 
+
+main.$parent(document.body)
+
 function add() {
     number ++;
     main.$update();
 }
 
-
-main.$parent(document.body)
