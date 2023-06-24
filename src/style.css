@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 5em;
+    text-align: center;
+}
+
+button{
+    padding: 10px 30px;
+    margin: 10px;
+    background-color: rgb(29, 160, 29);
+    border: none;
+    border-radius: 10px;
+    color: white;
+    cursor: pointer;
+    font-size: .5em;
+    cursor: pointer;
+}
