@@ -1,7 +1,7 @@
 import "./style.css"
 
-var number = state(0);
-var main = 
+const number = state(0);
+const main = 
 <div>
     <p>Magic Dom base project</p>
     <button on:click={add}>Counter: {number.value}</button>
