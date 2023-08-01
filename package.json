@@ -8,10 +8,8 @@
     "build": "vite build",
     "preview": "vite preview"
   },
-  "devDependencies": {
-    "vite": "^4.0.0"
-  },
   "dependencies": {
-    "magic-dom": "^5.0.1"
+    "magic-dom": "^5.0.1",
+    "vite": "^4.4.8"
   }
 }
