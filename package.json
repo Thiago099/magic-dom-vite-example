@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "magic-dom": "^5.1.8",
+    "magic-dom": "^6.1.11",
     "vite": "^4.4.8"
   }
 }
